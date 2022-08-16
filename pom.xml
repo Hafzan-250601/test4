@@ -202,4 +202,8 @@
     </distributionManagement>
     <modules>
     </modules>
+   <properties>
+         <sonar.organization>hafzan-250601</sonar.organization>
+         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+   </properties>
 </project>
